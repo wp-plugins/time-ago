@@ -8,13 +8,13 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-One click convert date and time to "time ago" (e.g. 1 hour ago).
+One click convert date and time to "time ago" (for example: 1 hour ago).
 
 == Description ==
 
 ### Time Ago                    
 
-One click convert date and time to "time ago" (e.g. 1 hour ago).
+One click convert date and time to "time ago" (for example: 1 hour ago). 
 
 ### The Features
 
