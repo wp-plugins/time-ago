@@ -14,7 +14,7 @@ One click convert date and time to "time ago" (for example: 1 hour ago).
 
 ### Time Ago                    
 
-One click convert date and time to "time ago" (for example: 1 hour ago). 
+One click convert date and time to "time ago" (for example: 1 hour ago).
 
 ### The Features
 
