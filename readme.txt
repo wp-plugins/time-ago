@@ -1,6 +1,6 @@
 ﻿=== Time Ago ===
 Contributors: Qassim.Dev
-Donate link: http://j.mp/plugins_donation
+Donate link: http://j.mp/WPTime_donations
 Tags: time, ago, date, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.8.0
 Tested up to: 4.1.1
