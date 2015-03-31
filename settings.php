@@ -3,7 +3,7 @@
 /* Time ago settings */
 
 	function WPTime_time_ago_settings() {
-		add_menu_page( 'Time Ago Settings', 'Time Ago', 'update_core', 'WPTime_time_ago_settings', 'WPTime_time_ago_settings_page', 'dashicons-clock' );
+		add_menu_page( 'Time Ago Settings', 'Time Ago', 'update_core', 'WPTime_time_ago_settings', 'WPTime_time_ago_settings_page' );
 	}
 	add_action( 'admin_menu', 'WPTime_time_ago_settings' );
 
@@ -30,7 +30,7 @@
 		$echo 		= 	true;
 		$comments_time_ago 	=	get_option('wptta_comments');
 		
-		include 'if_else.php';
+		include ( plugin_dir_path( __FILE__ ).'/if_else.php' );
 		
 		?>
 			<div class="wrap">

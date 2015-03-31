@@ -4,7 +4,7 @@ Donate link: http://j.mp/WPTime_donations
 Tags: time, ago, date, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.8.0
 Tested up to: 4.1.1
-Stable tag: 1.0.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,5 +69,8 @@ One click convert date and time to "time ago" (for example: 1 hour ago).
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.1 =
+Time ago wp-admin fixed.
+
+= 1.0 =
 First version.
