@@ -3,7 +3,7 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/WPTime_donations
 Tags: time, ago, date, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.8.0
-Tested up to: 4.1.2
+Tested up to: 4.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,7 @@ One click convert date and time to "time ago" (for example: 1 hour ago).
 
 == Description ==
 
-### Time Ago                         
+### Time Ago
 
 One click convert date and time to "time ago" (for example: 1 hour ago).
 
