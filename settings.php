@@ -145,12 +145,20 @@
                     </table>
                     <p class="submit"><input id="submit" class="button button-primary" type="submit" name="submit" value="Save Changes"></p>
                 </form>
-            	<div class="tool-box">
-					<h3 class="title">Beautiful WordPress Themes</h3>
-					<p>Get collection of 87 WordPress themes for only $69, a lot of features and free support! <a href="http://j.mp/et_ref_timeago" title="Get it now!" target="_blank">Get it now</a>.</p>
-					<p>See also <a href="http://j.mp/cm_ref_wptimeplugins" title="CreativeMarket - WordPress themes" target="_blank">CreativeMarket</a> and <a href="http://j.mp/tf_ref_wptimeplugins" title="Themeforest - WordPress themes" target="_blank">Themeforest</a>.</p>
-					<p><a href="http://j.mp/et_ref_timeago" title="Get collection of 87 WordPress themes for only $69" target="_blank"><img src="http://www.elegantthemes.com/affiliates/banners/570x100.jpg"></a></p>
-				</div>
+                <div class="tool-box">
+                    <h3 class="title">Beautiful WordPress Themes</h3>
+                    <p>Get collection of 87 WordPress themes for $69 only, a lot of features and free support! <a href="http://j.mp/ET_WPTime_ref_pl" target="_blank">Get it now</a>.</p>
+                    <p>See also:</p>
+                        <ul>
+                            <li><a href="http://j.mp/GL_WPTime" target="_blank">Best Gallery & Portfolio WordPress Plugins.</a></li>
+                            <li><a href="http://j.mp/CM_WPTime" target="_blank">Premium WordPress themes on CreativeMarket.</a></li>
+                            <li><a href="http://j.mp/TF_WPTime" target="_blank">Premium WordPress themes on Themeforest.</a></li>
+                            <li><a href="http://j.mp/CC_WPTime" target="_blank">Premium WordPress plugins on Codecanyon.</a></li>
+                            <li><a href="http://j.mp/BH_WPTime" target="_blank">Unlimited web hosting for $3.95 only.</a></li>
+                        </ul>
+                    <p><a href="http://j.mp/GL_WPTime" target="_blank" title="Download Best Gallery & Portfolio WordPress Plugins"><img src="http://content.ghozylab.com/partners/aff/images/global-aff-img.png" width="728" height="90"></a></p>
+                    <p><a href="http://j.mp/ET_WPTime_ref_pl" title="Get collection of 87 WordPress themes for $69 only" target="_blank"><img src="http://www.elegantthemes.com/affiliates/banners/570x100.jpg"></a></p>
+                </div>
             </div>
         <?php
 	} // settings page function

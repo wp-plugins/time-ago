@@ -26,6 +26,32 @@ License: GPLv2 or later
 */
 
 
+// WP Time Page
+if( !function_exists('WP_Time_Ghozylab_Aff') ) {
+    function WP_Time_Ghozylab_Aff() {
+        add_menu_page( 'WP Time', 'WP Time', 'update_core', 'WP_Time_Ghozylab_Aff', 'WP_Time_Ghozylab_Aff_Page');
+        function WP_Time_Ghozylab_Aff_Page() {
+            ?>
+                <div class="wrap">
+                    <h2>WP Time</h2>
+                    <div class="tool-box">
+                        <h3 class="title">Thanks for using our plugins!</h3>
+                        <p>For more plugins, please visit <a href="http://wp-time.com" target="_blank">WP Time Website</a> and <a href="https://profiles.wordpress.org/qassimdev/#content-plugins" target="_blank">WP Time profile on WordPress</a>.</p>
+                        <p>For contact or support, please visit <a href="http://wp-time.com/contact/" target="_blank">WP Time Contact Page</a>.</p>
+                    </div>
+                    <div class="tool-box">
+                        <h3 class="title">Great WordPress Plugins</h3>
+                        <p>Best Gallery & Portfolio WordPress Plugins <a href="http://j.mp/GL_WPTime" target="_blank">Download Now</a>.</p>
+                        <p><a href="http://j.mp/GL_WPTime" target="_blank"><img src="http://content.ghozylab.com/partners/aff/images/global-aff-img.png" width="728" height="90"></a></p>
+                    </div>
+                </div>
+            <?php
+        }
+    }
+    add_action( 'admin_menu', 'WP_Time_Ghozylab_Aff' );
+}
+
+
 // Add settings page
 if ( is_admin() ){
 	include ( plugin_dir_path( __FILE__ ).'/settings.php' );
