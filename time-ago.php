@@ -41,7 +41,7 @@ if( !function_exists('WP_Time_Ghozylab_Aff') ) {
                     </div>
                     <div class="tool-box">
                         <h3 class="title">Great WordPress Plugins</h3>
-                        <p>Best Gallery & Portfolio WordPress Plugins <a href="http://j.mp/GL_WPTime" target="_blank">Download Now</a>.</p>
+                        <p><a href="http://j.mp/GL_WPTime" target="_blank">Must Have Awesome Plugins.</a></p>
                         <p><a href="http://j.mp/GL_WPTime" target="_blank"><img src="http://content.ghozylab.com/partners/aff/images/global-aff-img.png" width="728" height="90"></a></p>
                     </div>
                 </div>
