@@ -12,7 +12,7 @@ One click convert date and time to "time ago" (for example: 1 hour ago).
 
 == Description ==
 
-### Time Ago          
+### Time Ago
 
 One click convert date and time to "time ago" (for example: 1 hour ago).
 
