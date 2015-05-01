@@ -3,7 +3,7 @@
 Plugin Name: Time Ago
 Plugin URI: http://wp-time.com/time-ago/
 Description: One click convert date and time to "time ago" (e.g. 1 hour ago).
-Version: 1.1
+Version: 1.2
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later
