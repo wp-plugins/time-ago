@@ -67,7 +67,7 @@ One click convert date and time to "time ago" (for example: 1 hour ago).
 == Changelog ==
 
 = 1.2 =
-* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
+* Support WordPress latest version.
 
 = 1.1 =
 Time ago wp-admin fixed.
