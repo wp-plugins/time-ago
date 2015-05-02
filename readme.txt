@@ -4,7 +4,7 @@ Donate link: http://j.mp/WPTime_donations
 Tags: time, ago, date, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.8.0
 Tested up to: 4.2.1
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,7 +55,7 @@ One click convert date and time to "time ago" (for example: 1 hour ago).
 
 1. Upload 'time-ago' folder to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Now plugin is ready, but if you want to translate texts or activate comments time ago, go to your wp-admin > Time Ago.
+3. Now plugin is ready, but if you want to translate texts or activate comments time ago, go to your wp-admin > Plugins > Time Ago.
 
 == Frequently Asked Questions ==
 
@@ -65,6 +65,10 @@ One click convert date and time to "time ago" (for example: 1 hour ago).
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
+
+= 1.3 =
+* add_plugins_page function.
+* Now to find the options page, go to your wp-admin > Plugins > Time Ago.
 
 = 1.2 =
 * Support WordPress latest version.

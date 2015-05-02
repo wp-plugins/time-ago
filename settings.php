@@ -3,7 +3,7 @@
 /* Time ago settings */
 
 	function WPTime_time_ago_settings() {
-		add_menu_page( 'Time Ago Settings', 'Time Ago', 'update_core', 'WPTime_time_ago_settings', 'WPTime_time_ago_settings_page' );
+		add_plugins_page( 'Time Ago Settings', 'Time Ago', 'update_core', 'WPTime_time_ago_settings', 'WPTime_time_ago_settings_page' );
 	}
 	add_action( 'admin_menu', 'WPTime_time_ago_settings' );
 
