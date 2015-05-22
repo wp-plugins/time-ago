@@ -33,7 +33,7 @@ One click convert date and time to "time ago" (for example: 1 hour ago).
 ### See Also
 
 * [Collection of 87 themes for $69 only.](http://j.mp/ET_WPTime)
-* [Arqam - Retina Responsive WordPress Social Counter Plugin.](http://j.mp/Arqam_WP_Plugin)
+* [Request your WordPress plugin starting from $9.](http://j.mp/Request_Plugin_WPTime)
 * [Premium WordPress themes on Creative Market.](http://j.mp/CM_WPTime)
 * [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
 * [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
